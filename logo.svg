@@ -1,0 +1,13 @@
+<svg width="200" height="200" viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background Circle -->
+  <circle cx="100" cy="100" r="100" fill="#1DB954" />
+
+  <!-- First Arc -->
+  <path d="M50 85c30-15 70-15 100 0" stroke="white" stroke-width="10" fill="none" />
+
+  <!-- Second Arc -->
+  <path d="M55 110c25-10 65-10 90 0" stroke="white" stroke-width="8" fill="none" />
+
+  <!-- Third Arc -->
+  <path d="M60 135c20-5 55-5 75 0" stroke="white" stroke-width="6" fill="none" />
+</svg>
